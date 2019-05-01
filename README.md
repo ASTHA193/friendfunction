@@ -1,6 +1,6 @@
 # friendfunction
 If a function is defined as a friend function in C++, then the protected and private data of a class can be accessed using the function.
-By using the keyword friend compiler knows the given function is a friend function.<br/>
+By using the keyword friend compiler knows the given function is a friend function .<br/>
 Declaration of friend function in C++ . 
 class class_name    
 {    
